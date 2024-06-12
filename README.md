@@ -7,8 +7,7 @@
 
 This is an open-source Electron app that acts as a simple wrapper around ChatGPT. It allows you to interact with the API and receive responses from the GPT-3.5 model through an easy-to-use user interface.
 
-
-## Installation
+## Setup
 
 1. Clone the repository
 
