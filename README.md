@@ -38,6 +38,6 @@ You can replace the platform and arch options according to your target platform 
 
 
 ## License
-This project is licensed under the `MIT License`. See the `LICENSE file` for details.
+This project is licensed under the `MIT License`. See the `LICENSE` file for details.
 
 
